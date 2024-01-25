@@ -48,8 +48,14 @@
         </div>
         <div class="text">
           <h1>
-            Koristi MyGarden aplikaciju i uredi svoj vrt s raličitim vrstama
-            biljaka
+            <font color="#00b007">Koristi</font> MyGarden
+            <font color="#00b007">
+              aplikaciju i uredi svoj vrt s različitim vrstama biljaka
+            </font>
+          </h1>
+          <button type="button" class="btn btn-success">Registriraj se</button>
+          <h1>
+            Pretraži različite ponude drugih ljubitelja i uzgajivača biljaka
           </h1>
         </div>
       </div>
@@ -62,7 +68,7 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: left;
   color: #2c3e50;
 }
 
