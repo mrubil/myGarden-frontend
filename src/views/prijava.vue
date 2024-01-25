@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="prijava">
     <h1>prototip</h1>
   </div>
 </template>
